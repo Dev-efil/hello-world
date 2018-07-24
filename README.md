@@ -1,2 +1,2 @@
 # hello-world
-First GitHub file
+Why "Hello World"?
